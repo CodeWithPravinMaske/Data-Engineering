@@ -16,11 +16,18 @@ End-to-end data engineering projects and from-scratch tutorials (Azure, Databric
 | [Uber End-To-End Data Engineering Project (2026)](https://www.youtube.com/watch?v=5KIbhHo6GJA) | Databricks streaming |
 | [PySpark x dbt End-To-End Data Engineering Project](https://www.youtube.com/watch?v=cq7Uv7ctGjw) | PySpark, dbt |
 | [Databricks x dbt End-To-End Data Engineering Project](https://www.youtube.com/watch?v=vT7Oeu7WqHg) | Databricks, dbt, PySpark |
+| [Airbnb End-To-End Data Engineering Project (For Beginners)](https://www.youtube.com/watch?v=3SZSDKEZqoA) | dbt, Snowflake, AWS |
 
 ### Full Courses / Tutorials
 
 | Video | Topic |
 |---|---|
+| [Apache Spark - The Ultimate Guide [From ZERO To PRO]](https://www.youtube.com/watch?v=FNJze2Ea780) | Apache Spark |
+| [PySpark Tutorial: Full Course (From Zero to Pro!)](https://www.youtube.com/watch?v=94w6hPk7nkM) | PySpark |
+| [PySpark Optimization Full Course 2025](https://www.youtube.com/watch?v=CY_WaxCxJco) | Spark performance tuning |
+| [PySpark Streaming Full Course](https://www.youtube.com/watch?v=r7FTCuTl84g) | Spark Structured Streaming |
+| [The ONLY Apache Spark Roadmap You NEED As a Beginner](https://www.youtube.com/watch?v=6UxiSj_bkGE) | Spark roadmap |
+| [[Data Build Tool] dbt - The Ultimate Guide (With CI/CD)](https://www.youtube.com/watch?v=B8uwFmVt4sU) | dbt |
 | [SQL Full Course for Beginners (Complete Guide For Data Engineers)](https://www.youtube.com/watch?v=YimMzb0mHkI) | SQL |
 | [SQL For Big Data Engineering [Full Course 2025]](https://www.youtube.com/watch?v=b0TCqhP2P7I) | Spark SQL, Databricks |
 | [The COMPLETE Python Roadmap For Data Engineer](https://www.youtube.com/watch?v=LCU8TtU8nKU) | Python |

@@ -18,5 +18,5 @@ A comprehensive collection of data engineering learning materials, notes, projec
 | [10-System-Design](10-System-Design/) | Data pipeline, lakehouse, and streaming architecture |
 | [11-Interview-Preparation](11-Interview-Preparation/) | SQL, Python, Spark, Kafka, Hive, Java, LeetCode, Data Engineering, System Design |
 | [12-Notes](12-Notes/) | General notes |
-| [13-Software-Engineering](13-Software-Engineering/) | Java, Hibernate, HTML |
+| [13-Software-Engineering](13-Software-Engineering/) | Java, Spring, Hibernate, HTML |
 | [resources](resources/) | [Books](resources/Books.md), [Courses](resources/Courses.md), [Blogs](resources/Blogs.md), [YouTube](resources/YouTube.md), [Open-Source Tools](resources/Open-Source-Tools.md) |
